@@ -1,11 +1,11 @@
 # POS-Software-Migration
 
-<h2>Description </h2>
+- <h2>Description </h2>
 
     - This project entails the process of migrating Legacy Point of Sale (POS) system from windows to Android system.
     
         
-<h2>Operating System Used </h2>
+- <h2>Operating System Used </h2>
 
      - Windows 10 Pro (Production Enviroment PC)
          
@@ -17,7 +17,7 @@
     - LogMeIn
          
 
-<h2> Check Screenshots below: </h2>
+- <h2> Check Screenshots below: </h2>
 
  - [1] Screenshot 1- Harbortouch POS
    
