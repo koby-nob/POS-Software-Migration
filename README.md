@@ -23,13 +23,13 @@
    
 <img width="505" height="442" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0c7712fb-6dd7-4f1c-b280-f19749531573" />
 
-    - Specs: Based on Windows 7 and Windows 10 Operating System
+    - Specs: Harbortouch POS- Based on Windows 7 and Windows 10 Operating System
 
  - Screenshot 2- Skytab POS
 
 <img width="576" height="442" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9127fc6f-368d-4974-96b0-03703dc0256a" />
 
-     - Specs: Based on Android Operating System- Cloud POS Solution
+     - Specs:  Skytab POS based on Android Operating System- Cloud POS Solution
 
 
   
