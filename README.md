@@ -24,6 +24,8 @@
 <img width="505" height="442" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0c7712fb-6dd7-4f1c-b280-f19749531573" />
 
     - Specs: Harbortouch POS- Based on Windows 7 and Windows 10 Operating System
+    - Hardware (Elite- A) = Windows 7
+    - Harwdware (Onyx) = Windows 10
 
  - [1] Screenshot 2- Skytab POS
 
