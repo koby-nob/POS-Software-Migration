@@ -29,7 +29,7 @@
 
 <img width="576" height="442" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9127fc6f-368d-4974-96b0-03703dc0256a" />
 
-     - Specs: Based on Android based systeme. Cloud POS Solution
+     - Specs: Based on Android based systeme- Cloud POS Solution
 
 
   
