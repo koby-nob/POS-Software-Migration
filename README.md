@@ -2,7 +2,7 @@
 
 - <h2>Description </h2>
 
-    - This project entails the process of migrating Legacy Point of Sale (POS) system from windows to Android system.
+    - This project entails the process of migrating legacy (windows) point of sale (POS) systems to android system (cloud based).
     
         
 - <h2>Operating System Used </h2>
