@@ -19,17 +19,20 @@
 
 <h2> Check Screenshots below: </h2>
 
- - Screenshot 1- Harbortouch POS
+ - [1] Screenshot 1- Harbortouch POS
    
 <img width="505" height="442" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0c7712fb-6dd7-4f1c-b280-f19749531573" />
 
     - Specs: Harbortouch POS- Based on Windows 7 and Windows 10 Operating System
 
- - Screenshot 2- Skytab POS
+ - [1] Screenshot 2- Skytab POS
 
 <img width="576" height="442" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9127fc6f-368d-4974-96b0-03703dc0256a" />
 
      - Specs:  Skytab POS based on Android Operating System- Cloud POS Solution
 
 
+  Source:
   
+  [1]“Shift4 Knowledge,” Zendesk.com, 2025. https://shift4.zendesk.com/hc/en-us (Screenshots 1-2).
+‌
