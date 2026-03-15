@@ -12,7 +12,7 @@
 <h2>Remote Tools </h2>
   
     - Air-viewer 
-    - Team-Viewer
+    - Team-viewer
     - Bomgar 
     - LogMeIn
          
